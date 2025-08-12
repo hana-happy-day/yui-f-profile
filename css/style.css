@@ -1659,7 +1659,9 @@ footer {
     /* 要素間の隙間を調整 */
     gap: 40px;
   }
-
+#skillmedia li {
+    margin: 0 auto;
+}
   #skillmedia a {
     /* フォントサイズを調整 */
     font-size: 16px;
@@ -2420,3 +2422,4 @@ footer {
 }
 
 /* hobby.html  ↑ */
+
