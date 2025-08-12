@@ -1974,6 +1974,7 @@ footer {
   border-radius: 30px;
   /* 点線のボーダーを設定 */
   border: #8e7264 1px dotted;
+  cursor: pointer;
 }
 
 /* 華のトリミング画像　↑ */
@@ -2417,4 +2418,5 @@ footer {
     height: auto;
   }
 }
+
 /* hobby.html  ↑ */
