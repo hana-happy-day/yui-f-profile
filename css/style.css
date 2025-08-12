@@ -283,7 +283,10 @@ footer {
     /* 重なり順を最前面にする */
     z-index: 30;
   }
-
+#header img {
+  height: 50px;
+  width: auto;
+  }
   #header .hamburger span {
     /* 3本の線の幅と高さを設定 */
     width: 30px;
@@ -2422,4 +2425,5 @@ footer {
 }
 
 /* hobby.html  ↑ */
+
 
